@@ -116,7 +116,7 @@ header {
 
 .top-img {
     background: rgba(0, 0, 0, 0.7);
-    background-image: url(../img/car.jpg);
+    background-image: url(../img/car.png);
     background-size: cover;
     background-position: 0;
     height: 100vh;
